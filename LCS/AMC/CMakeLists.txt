@@ -1,0 +1,4 @@
+# $Id: CMakeLists.txt 14274 2009-10-16 12:14:19Z loose $
+
+lofar_add_package(AMCBase)
+lofar_add_package(AMCImpl)
